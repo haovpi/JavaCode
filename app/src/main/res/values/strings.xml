@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Layout Login Facebook</string>
-    <string name="sign_up">Sign up For Facebook</string>
-    <string name="log_in">log in</string>
-    <string name="input_username">Input Username</string>
-    <string name="input_password">Input Password</string>
-</resources>
