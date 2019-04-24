@@ -2,4 +2,5 @@
 <resources>
     <item name="rl" type="id"/>
     <item name="imgAvatar" type="id" />
+    <item name="btnClick" type="id" />
 </resources>
